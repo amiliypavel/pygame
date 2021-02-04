@@ -1,0 +1,15 @@
+-----------rrrr
+--------rrrr---
+ccc----rr---ccc
+ssccc--r--cccss
+--sscccrcccss--
+----sssrsss----
+-------r----m--
+--m----r-------
+-mmm---r-------
+--mm--mrrrr----
+------mmmmr----
+----mmmmmmrrr--
+---mmmmrrrr-rr-
+--rrrrrr-----rr
+rrr------------
